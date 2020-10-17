@@ -89,6 +89,11 @@ body {
   font-style: normal;
 }
 
+.address-footer .link:hover,
+.address-footer .link:focus {
+  color: var(--accent-color);
+}
+
 /* Стили для "Студия" */
 
 /* HERO */
